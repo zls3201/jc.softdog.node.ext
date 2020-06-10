@@ -1,0 +1,17 @@
+{
+  "name": "jc_node_ext",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node hello.js"
+  },
+  "author": "zls3201",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.14.0"
+  },
+  "gypfile": true
+}
